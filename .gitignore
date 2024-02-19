@@ -162,3 +162,4 @@ cython_debug/
 *.zip
 *.txt
 *.aria2
+*.xz
