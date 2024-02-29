@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - jupyterlab
   - scikit-learn
+  - python-lsp-server
