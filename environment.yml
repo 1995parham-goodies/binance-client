@@ -1,0 +1,10 @@
+name: binance-client
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - scikit-learn
