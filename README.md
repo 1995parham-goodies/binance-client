@@ -18,3 +18,8 @@ and for doing that we need to have
 micromamba env create -f environment.yml
 micromamba activate binance-client
 ```
+
+## Why not yellowbrick?
+
+Yellowbrick is a collection of visual analysis and diagnostic tools to facilitate machine learning model selection,
+but it is not updated for almost 2 years, so it is better to remove it.
