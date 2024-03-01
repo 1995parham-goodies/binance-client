@@ -164,3 +164,4 @@ cython_debug/
 *.aria2
 *.xz
 *.csv
+.virtual_documents/

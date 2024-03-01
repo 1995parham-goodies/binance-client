@@ -2,6 +2,7 @@ name: binance-client
 channels:
   - conda-forge
   - defaults
+  - districtdatalabs
 dependencies:
   - numpy
   - pandas
@@ -9,3 +10,4 @@ dependencies:
   - jupyterlab
   - scikit-learn
   - python-lsp-server
+  - yellowbrick
