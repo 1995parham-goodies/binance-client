@@ -12,3 +12,4 @@ dependencies:
   - python-lsp-server
   - yellowbrick
   - matplotlib
+  - statsmodels
