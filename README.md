@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Asan Pardakht wants to have Telegram bot and follows the market leads for investment in the crypocurrencies.
+Asan Pardakht wants to have Telegram bot and follows the market leads for investment in the cryptocurrencies.
 Here we are use the Binance data to find the leads that we can use 🤔
 
 ## Data Gathering
@@ -24,7 +24,11 @@ micromamba env create -f environment.yml
 micromamba activate binance-client
 ```
 
-## Noetebooks
+```bash
+jupyter-lab --ip 0.0.0.0
+```
+
+## Notebooks
 
 The first meetings with our direct manager are scheduled in Slack and their agenda are based on the demo notebook.
 
