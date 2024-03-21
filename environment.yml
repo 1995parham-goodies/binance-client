@@ -13,3 +13,4 @@ dependencies:
   - yellowbrick
   - matplotlib
   - statsmodels
+  - polars
